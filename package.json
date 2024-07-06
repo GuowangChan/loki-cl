@@ -1,6 +1,6 @@
 {
   "name": "loki-cl",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "loki-cli脚手架",
   "main": "cli.js",
   "bin": {
